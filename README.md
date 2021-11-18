@@ -2,6 +2,10 @@
 
 Practice using React components and properties.
 
+## Complete!
+
+<img src="https://i.imgur.com/fbiR157.png">
+
 ## Requirements
 
 Create a pokemon app that displays a group of 8 pokemon.
@@ -17,7 +21,6 @@ Create a pokemon app that displays a group of 8 pokemon.
 {id: 1, name: 'Bulbasaur', type: 'grass', exp: 9}
 ```
 
-## Further Study
+## Optional
 
-* Fancier images - use alternate API for higher-res images.
 * Pokegame component - random on page load, two different "hands" of 4 pokemon each. Shows winner and loser based off greater total "hand exp".
